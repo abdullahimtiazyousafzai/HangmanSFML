@@ -1,6 +1,5 @@
 /*developed by M.Abdullah 2022323
  on April 6,2023
-and M.Younas 2022456
 copyright belongs to M.Abdullah
 this project is for presentation only.
 This project is not for sale or any other commercial use.
